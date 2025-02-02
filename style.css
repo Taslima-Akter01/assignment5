@@ -1,3 +1,4 @@
+/*A header*/
 h1{
     text-align: center;
     font-size: 45px;
@@ -9,6 +10,7 @@ h1{
     margin: 0;
     padding-top: 25px;
 }
+/*A sidebar*/
  ul{
     position: fixed;
     height: 100%;
@@ -41,6 +43,7 @@ li a:active{
     background-color: black;
     color: white;
 }
+/*A main*/
 .main{
     margin-left: 8%;
     padding: 1px 10px;
@@ -51,6 +54,7 @@ li a:active{
     text-align: center;
     font-size: 30px;
 }
+/*a footer*/
 footer{
     text-align: center;
     position: absolute;
